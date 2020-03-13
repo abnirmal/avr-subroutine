@@ -1,0 +1,14 @@
+.DS_Store
+*.pdf
+*.bak
+*.o
+*.elf
+*.hex
+*.jpg
+*.png
+*.mov
+*.mp4
+*.sub
+*~
+.#*
+
